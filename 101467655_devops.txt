@@ -1,1 +1,4 @@
-test
+This file will contain information about COMP 2156 DevOps course:
+This course is taught by professor Pritesh Patel where students will
+learn about DevOps engineering principles which will include best practices,
+protocols and implementation techniques to enhance workplace productivity.
