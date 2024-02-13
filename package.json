@@ -1,26 +1,48 @@
 {
-  "name": "package",
+  "name": "group35",
   "version": "1.0.0",
-  "description": "group35 comp2156 package",
+  "description": "COMP2156 Group35 Assignment",
   "main": "index.js",
   "scripts": {
-    "test": "\"echo 'No tests available\""
-  },
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "test": "echo \"No tests available\"",
+    "eject": "react-scripts eject"
+  },  
+  "keywords": [
+    "COMP2156",
+    "group35",
+    "assignment",
+    "github",
+    "actions",
+    "react"
+  ],
+  "author": "Elle Yates",
+  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ElleYates/COMP2156_Group35_Assignment.git"
   },
-  "keywords": [
-    "github",
-    "actions",
-    "comp2156",
-    "group",
-    "project"
-  ],
-  "author": "Elle Y",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/ElleYates/COMP2156_Group35_Assignment/issues"
   },
-  "homepage": "https://github.com/ElleYates/COMP2156_Group35_Assignment#readme"
+  "homepage": "https://github.com/ElleYates/COMP2156_Group35_Assignment#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
