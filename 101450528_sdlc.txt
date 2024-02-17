@@ -1,0 +1,9 @@
+Key principles of DevOps
+
+DevOps implementation varies with each company, depending on their goals, processes, and even corporate cultures. We can, however, identify a number of core DevOps principles that most teams follow. The advantages of DevOps are Fostering a collaborative environment through communication, mutual trust, sharing of skills and ideas, and problem-solving.  
+
+Establishing a culture of end-to-end accountability, in which the entire team is responsible for the outcomes and there are no “pointing fingers” between the “Dev” and “Ops” experts.  
+Focusing on continual improvement based on customer input and evolving technologies in order to optimize product quality, cost, and delivery speed.  
+Whenever possible, use automation to streamline and speed up development and deployment processes, as well as enhance efficiency and dependability.  
+Providing a client-centric strategy with quick feedback loops to meet changing customer needs.  
+Taking lessons from mistakes and fostering an environment where they can be turned into new opportunities. 
