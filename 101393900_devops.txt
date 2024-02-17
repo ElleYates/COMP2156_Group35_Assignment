@@ -1,5 +1,7 @@
 Comp 2156 DevOps
 
+Howdy
+
 The goal of this course is to better prepare professionals who plan to enter the IT industry.
 In particular, an area where web applications, servers, and infrastructure will be essential to
 
