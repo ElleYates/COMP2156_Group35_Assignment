@@ -1,0 +1,9 @@
+Comp 2156 DevOps
+
+The goal of this course is to better prepare professionals who plan to enter the IT industry.
+In particular, an area where web applications, servers, and infrastructure will be essential to
+
+business requirements. COMP 3104 will give students practical experience by putting tried-and-true DevOps technology into practice.
+We will also look at how DevOps practices have helped businesses make or lose millions of dollars. By studying about Ansible, Docker, Travis CI, and Amazon Web Services, you will have an understanding of end-to-end deployment procedures. Additionally, you will have your own development pipeline that will enable you to instantly publish updates to an online application in the wild.
+
+Effective use of DevOps techniques will enable a process built on the simplicity of deploying code to production servers, applying hot patches, identifying faults before they cause unanticipated behavior, and maintaining high levels of transparency and communication amongst all teams. A developer that views the software development lifecycle from the perspective of a DevOps Engineer will be more educated and more capable.
