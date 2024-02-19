@@ -1,0 +1,4 @@
+This file will contain details about importance of learning DevOps engineer in software development cycle:
+One of the main reason as to why learning DevOps engineering is important is
+because it bridges development and operation teams in a software development cycle,
+allowing for efficiency in automated repetitive task and streamline processes.
